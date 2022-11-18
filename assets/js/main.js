@@ -259,4 +259,4 @@
     //     if (cactusLeft < 50 && cactusLeft > 0 && dinoTop >= 150) {
     //         alert('Game over')
     //     }
-    // }, 10)
+    // }
